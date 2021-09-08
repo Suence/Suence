@@ -1,4 +1,4 @@
-### Hi there <img src="https://media.giphy.com/media/l15xvlS8trI0vLQIWb/giphy.gif" alt="Hi.gif" width="20px">
+### <img src="https://media.giphy.com/media/l15xvlS8trI0vLQIWb/giphy.gif" alt="Hi.gif" width="20px"> Hi there 
 ![Suence's GitHub stats](https://github-readme-stats.vercel.app/api?username=suence&show_icons=true&include_all_commits=true&theme=great-gatsby)
 
 <!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=suence&repo=OTLog&theme=great-gatsby)](https://github.com/Suence/OTLog)-->
