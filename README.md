@@ -1,8 +1,8 @@
-### Hi there 👋
-[![Suence's GitHub stats](https://github-readme-stats.vercel.app/api?username=suence&show_icons=true&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
+### Hi there <img src="https://media.giphy.com/media/l15xvlS8trI0vLQIWb/giphy.gif" alt="Hi.gif" width="20px">
+![Suence's GitHub stats](https://github-readme-stats.vercel.app/api?username=suence&show_icons=true&include_all_commits=true&theme=great-gatsby)
 
 <!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=suence&repo=OTLog&theme=great-gatsby)](https://github.com/Suence/OTLog)-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suence&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suence&theme=great-gatsby)
 
 <!--
 **Suence/Suence** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
