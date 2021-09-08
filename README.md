@@ -2,7 +2,7 @@
 ![Suence's GitHub stats](https://github-readme-stats.vercel.app/api?username=suence&show_icons=true&include_all_commits=true&theme=great-gatsby)
 
 <!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=suence&repo=OTLog&theme=great-gatsby)](https://github.com/Suence/OTLog)-->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suence&theme=great-gatsby)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suence&theme=great-gatsby&card_width=495)
 
 <!--
 **Suence/Suence** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
