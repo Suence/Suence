@@ -1,20 +1,11 @@
-### <img src="https://media.giphy.com/media/l15xvlS8trI0vLQIWb/giphy.gif" alt="Hi.gif" width="20px"> Hi there 
-![Suence's GitHub stats](https://github-readme-stats.vercel.app/api?username=suence&show_icons=true&include_all_commits=true&theme=great-gatsby)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=350&lines=printfn+%22Hello%2C%20World%22&center=true&size=27)](https://git.io/typing-svg)
 
-<!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=suence&repo=OTLog&theme=great-gatsby)](https://github.com/Suence/OTLog)-->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suence&theme=great-gatsby&card_width=495)
+[![Suence's GitHub stats-Dark](https://github-stats-extended.vercel.app/api?username=Suence&show_icons=true&hide_border=true&theme=tokyonight#gh-dark-mode-only)](https://github.com/stats-organization/github-stats-extended#gh-dark-mode-only)
+[![Suence's GitHub stats-Light](https://github-stats-extended.vercel.app/api?username=Suence&show_icons=true&hide_border=true&theme=default#gh-light-mode-only)](https://github.com/stats-organization/github-stats-extended#gh-light-mode-only)
 
-<!--
-**Suence/Suence** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Top Langs Dark](https://github-stats-extended.vercel.app/api/top-langs/?username=Suence&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&hide=html&hide_border=true&card_width=465&layout=compact&theme=tokyonight#gh-dark-mode-only)](https://github.com/stats-organization/github-stats-extended#gh-dark-mode-only)
+[![Top Langs Light](https://github-stats-extended.vercel.app/api/top-langs/?username=Suence&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&hide=html&hide_border=true&card_width=465&layout=compact&theme=tokyonight#gh-light-mode-only)](https://github.com/stats-organization/github-stats-extended#gh-light-mode-only)
 
-Here are some ideas to get you started:
+[![Suence's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Suence&theme=tokyo-night&hide_border=true)](https://github.com/Suence/github-readme-activity-graph)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Suence&theme=tokyonight&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy) -->
